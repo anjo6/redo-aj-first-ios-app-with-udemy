@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1CBC31924A5146DA4C36A0927498857AD6A5DC5A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC73627D9152860AB235FA26F24E7BAAE5B901A3" : 9223372036854775807,
+    "1CBC31924A5146DA4C36A0927498857AD6A5DC5A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2403D211-01B6-42C2-9787-6527509D289A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC73627D9152860AB235FA26F24E7BAAE5B901A3" : "",
+    "1CBC31924A5146DA4C36A0927498857AD6A5DC5A" : "redo%20aj%20first%20ios%20app%20with%20udemy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "redo aj first ios app with udemy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "redo aj first ios app with udemy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anjo6\/redo-aj-first-ios-app-with-udemy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1CBC31924A5146DA4C36A0927498857AD6A5DC5A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anjo6\/aj-first-ios-app-w-udemy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC73627D9152860AB235FA26F24E7BAAE5B901A3"
+    }
+  ]
+}
